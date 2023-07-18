@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "631855398806",
+    "project_id": "kunj-37dfe",
+    "storage_bucket": "kunj-37dfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631855398806:android:306434e7efb71e1978e7b7",
+        "android_client_info": {
+          "package_name": "com.example.kunj_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631855398806-a6ba3i4utnv7na8ps74oupftm0f2e8m3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhLIoo2IxzXtNDYeHAIgtIOne6jloirlg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631855398806-a6ba3i4utnv7na8ps74oupftm0f2e8m3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
